@@ -1,0 +1,9 @@
+com\mycompany\tp5ex1\Dataset.class
+com\mycompany\tp5ex1\NeuralNetwork.class
+com\mycompany\tp5ex1\RegressionDataset.class
+com\mycompany\tp5ex1\ClassificationDataset.class
+com\mycompany\tp5ex1\RandomForest.class
+com\mycompany\tp5ex1\MachineLearningModel.class
+com\mycompany\tp5ex1\TP5ex1.class
+com\mycompany\tp5ex1\SupportVectorMachine.class
+com\mycompany\tp5ex1\BaseModel.class
